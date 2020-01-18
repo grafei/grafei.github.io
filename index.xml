@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jane - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Jane - A super concise theme for Hugo</description>
+    <title>各版本圣经</title>
+    <link>http://www.grafei.com/</link>
+    <description>Recent content on 各版本圣经</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.grafei.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://www.grafei.com/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://www.grafei.com/about/</guid>
       
         <description>&lt;p&gt;待补充。。。&lt;/p&gt;
 </description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>从圣经文本的丰富性差异性再思圣经是怎么被默示的</title>
-      <link>http://localhost:1313/2020/01/14/</link>
+      <link>http://www.grafei.com/2020/01/14/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2020/01/14/</guid>
+      <guid>http://www.grafei.com/2020/01/14/</guid>
       
         <description>&lt;p&gt;作者：寻找&lt;/p&gt;
 
